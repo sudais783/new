@@ -1,0 +1,98 @@
+
+.call {
+    margin-top: 0%;
+    font-size: 2.3vw;
+    color: brown;
+    font-family: sans-serif;
+    font-weight: 800;
+    margin-bottom: 0%;
+}
+.new {
+    margin-top: 2%;
+    margin-right: 28%;
+    width: 90%;
+    margin-bottom: 1%;
+    height: 1%;
+    background-color: gray;
+}
+.number {
+    margin: 0%;
+    font-weight: 600;
+    font-family: sans-serif;
+    font-size: 5vw;
+}
+.question {
+    margin-top: 0%;
+    font-family: sans-serif;
+    font-size: 2vw;
+    margin-bottom: 0%;
+}
+.navbar-nav{gap: 30px;}
+#pic1{width: 100%;
+height: 400px;
+margin-bottom: 8px;}
+#pic2{background-image: url('New folder/form_bg.jpg');
+background-repeat: no-repeat;
+background-size: cover;}
+.box5 {
+    display: flex;
+    width: 100%;
+}
+.detail {
+    background-color: brown;
+    font-size: 1.3vw;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    height: 45px;
+    font-weight: 700;
+    width: 180px;
+}
+.word {
+    width: 100%;
+}
+.top {
+    font-size: 2.2vw;
+    padding-left: 10%;
+}
+.quiz {
+    color: rgb(34, 34, 109);
+    font-weight: 800;
+    font-size: 2.5vw;
+}
+.info {
+    font-weight: 500;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.data {
+    display: flex;
+    padding-left: 6%;
+}
+.state {
+    width: 58%;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.gap {
+    margin-bottom: 4%;
+}
+.confedental{rotate: 20deg;}
+.confi{padding-top: 35px;}
+.description{height: 70px;
+    width: 85%;}
+    .message{padding-left: 30px;}
+    .content-1{display: flex;
+    gap: 83px;}
+    .boton1{background-color: #c04242;}
+    .pink{border: 2px solid gray;}
+    .box{display: flex;
+    gap: 30px;}
+    .flex1{display: flex;
+    gap: 80px;}
+      .flex2{display: flex;
+    gap: 30px;}
+    .flex3{display: flex;
+    gap: 30px;}
+    .boton3{background-color: #c04242;}
+    .boton4{background-color: #c04242;}
