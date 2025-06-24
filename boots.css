@@ -90,4 +90,9 @@ background-size: cover;}
     .seek{display: none;}
     .bottom7{font-size: 150%;
     font-weight: 700;}
-   
+     .pink{border-left: 2px solid gray;}
+   @media (max-width:991px) {
+    .pink{border-left: none;}
+    
+    
+   }
